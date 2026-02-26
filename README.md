@@ -4,7 +4,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-![GTM Strike Dashboard Showcase](GTM Showcase Dashboard.png)
+![GTM Showcase Dashboard](GTM Showcase Dashboard.png)
 
 A high-velocity technical sales infrastructure designed for autonomous market research, tiered lead prioritization, and hyper-personalized outreach drafting. 
 
@@ -33,7 +33,7 @@ The engine is operated via a custom CLI, allowing for rapid "strikes" on specifi
 
 The Technical Narrative:
 
-![Terminal Strike Output](terminal_strike_output.png)
+![terminal strike output](terminal_strike_output.png)
 
 Dynamic Scoring: Each company is cross-referenced against a custom ICP rubric, generating a score from 1-10 based on recent funding, technological fit, and executive headcount.
 
