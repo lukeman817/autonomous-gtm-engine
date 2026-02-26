@@ -4,7 +4,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-![GTM Showcase Dashboard](GTM Showcase Dashboard.png)
+![GTM Strike Dashboard Showcase](GTM_Showcase_Dashboard.png)
 
 A high-velocity technical sales infrastructure designed for autonomous market research, tiered lead prioritization, and hyper-personalized outreach drafting. 
 
@@ -30,6 +30,8 @@ This engine was built to eliminate the manual "grunt work" of prospecting, allow
 
 🎮 Mission Control
 The engine is operated via a custom CLI, allowing for rapid "strikes" on specific market segments. One command initiates a multi-threaded execution path.
+
+![Terminal Strike Output](terminal_strike_output.png)
 
 The Technical Narrative:
 
