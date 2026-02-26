@@ -1,3 +1,25 @@
+# ==========================================
+# GTM ENGINE - PRIVATE DATA & LOGIC
+# ==========================================
+# Hide the core engine logic and sensitive data
+blivz/
+research_cache.json
+founding_sales_outreach.json
+*.csv
+.env
+
+# Ensure project config and showcase files are STILL public
+!package.json
+!package-lock.json
+!tsconfig.json
+!STRIKE_PROTOCOLS.md
+
+# OS Files
+.DS_Store
+Thumbs.db
+# ==========================================
+
+# Standard Node.js rules
 # Logs
 logs
 *.log
