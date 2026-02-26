@@ -28,14 +28,12 @@ This engine was built to eliminate the manual "grunt work" of prospecting, allow
 ├── tier2.csv                   # High-volume targets
 └── research_cache.json         # Persistent technical signal storage
 
-🎮 Mission Control
+## 🎮 Mission Control
 The engine is operated via a custom CLI, allowing for rapid "strikes" on specific market segments. One command initiates a multi-threaded execution path.
 
 ![Terminal Strike Output](terminal.png)
 
-The Technical Narrative:
-
-![terminal strike output](terminal_strike_output.png)
+## The Technical Narrative:
 
 Dynamic Scoring: Each company is cross-referenced against a custom ICP rubric, generating a score from 1-10 based on recent funding, technological fit, and executive headcount.
 
@@ -43,7 +41,7 @@ Parallelized Research: Using Claude 3.5 Sonnet, the system researches a full bat
 
 Automated Sync: Upon completion, the engine automatically populates hyper-personalized drafts into Gmail and refreshes the GTM Strike Dashboard to reflect real-time pipeline velocity.
 
-🚀 Core Systems
+## 🚀 Core Systems
 1. Surgical Research & Caching
 The engine performs parallelized research across both Tier 1 (High Stakes) and Tier 2 (High Volume) lists. It utilizes a research_cache.json system to store technical signals, preventing redundant API calls and keeping token costs optimized.
 
@@ -64,7 +62,7 @@ Visual Priority: Tier 1 leads are highlighted with high-contrast UI accents to f
 
 One-Click Execution: Integrated clipboard hooks to instantly move AI-generated DMs into LinkedIn.
 
-⚡️ Daily Workflow
+## ⚡️ Daily Workflow
 The Morning Strike: Execute a batch of 10-20 Tier 2 leads at 8:30 AM to fill the top-of-funnel.
 
 Tier 1 Swarm: Use the dashboard to identify T1 leads for personalized Loom/Signal sequences.
