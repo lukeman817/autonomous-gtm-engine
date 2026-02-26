@@ -27,11 +27,12 @@ This engine was built to eliminate the manual "grunt work" of prospecting, allow
 ├── tier1.csv                   # High-priority targets
 ├── tier2.csv                   # High-volume targets
 └── research_cache.json         # Persistent technical signal storage
+```
 
 ## 🎮 Mission Control
 The engine is operated via a custom CLI, allowing for rapid "strikes" on specific market segments. One command initiates a multi-threaded execution path.
 
-![Terminal Strike Output](mission_control.png)
+![Mission Control](mission_control.png)
 
 ## The Technical Narrative:
 
