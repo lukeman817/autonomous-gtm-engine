@@ -31,7 +31,7 @@ This engine was built to eliminate the manual "grunt work" of prospecting, allow
 ## 🎮 Mission Control
 The engine is operated via a custom CLI, allowing for rapid "strikes" on specific market segments. One command initiates a multi-threaded execution path.
 
-![Terminal Strike Output](terminal.png)
+![Terminal Strike Output](mission_control.png)
 
 ## The Technical Narrative:
 
